@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>BestDeal</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script
+	src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+</head>
+<body>
+
+
+	<div class="col-sm-2 sidenav">
+
+		<script type="text/javascript">
+       setInterval(function(){
+    	      $('blink').each(function(){
+    	        $(this).css('visibility' , $(this).css('visibility') === 'hidden' ? '' : 'hidden')
+    	      });
+    	    }, 550);
+</script>
+
+		<h2>
+			<blink>
+				<a href="/Best-Deal/trending"><font color="red">Trending</font></a>
+			</blink>
+		</h2>
+		<h4>BestDeal Departments</h4>
+		<ul class="nav nav-pills nav-stacked">
+			<li class="active"><a href="/Best-Deal/mobileproduct">Phones</a></li>
+			<li><a href="/Best-Deal/tabletproduct">Tablets</a></li>
+			<li><a href="/Best-Deal/laptopproduct">Laptop</a></li>
+			<li><a href="/Best-Deal/tvproduct">TV</a></li>
+
+		</ul>
+		<br>
+		<div class="input-group">
+
+
+			<body onload="init()">
+				<script type="text/javascript" src="javascript1.js"></script>
+				<div name="autofillform">
+					<input type="text" name="searchId" value="" 
+					class="input" id="searchId" 
+					onkeyup="doCompletion()" placeholder="search here.."
+						style="padding: 5px; font-size: 16px;" />
+					<div id="auto-row">
+						<table id="complete-table" class="gridtable“ style=" position:absolute; width: 315px;"></table>
+					</div>
+				</div>
+			</body>
+		</div>
+
+	</div>
+
+</body>
+</html>
+

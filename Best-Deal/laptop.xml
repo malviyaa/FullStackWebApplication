@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laptop>
+    <Product id="101" retailer="HP">
+      <image>laptop.jpg</image>
+        <name>HP </name>
+        <condition>New</condition>
+        <price>$1399</price>
+        <RetailerZip>63216</RetailerZip>
+        <RetailerCity>SANTA CLARA</RetailerCity>
+        <RetailerState>CA</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>HP</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>cable</accessory>
+        </accessories>
+    </Product>
+    
+    <Product id="102" retailer="BestDeal">
+        <image>laptop1.jpg</image>
+        <name>Acer</name>
+        <condition >Refurbished</condition>
+        <price>$1299</price>
+        <RetailerZip>63616</RetailerZip>
+        <RetailerCity>SanJose</RetailerCity>
+        <RetailerState>CA</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>Iball</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Headphone</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+        
+    </Product>
+    
+    <Product id="103" retailer="HP">
+        <image>laptop2.jpg</image>
+        <name>Dell</name>
+        <condition >Refurbished</condition>
+        <price>$3399</price>
+        <RetailerZip>63216</RetailerZip>
+        <RetailerCity>SanJose</RetailerCity>
+        <RetailerState>CA</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>Sony</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Bag</accessory>
+            <accessory>DVD Player</accessory>
+        </accessories>
+    </Product>
+    
+    <Product id="104" retailer="BestDeal">
+        <image>laptop3.jpg</image>
+        <name>Lenova Heat</name>
+        <condition >New</condition>
+        <price>$2899</price>
+        <RetailerZip>63616</RetailerZip>
+        <RetailerCity>SanJose</RetailerCity>
+        <RetailerState>CA</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>BMW</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>CD player</accessory>
+            <accessory>Stand</accessory>
+        </accessories>
+    </Product>
+    
+    <Product id="105" retailer="BestDeal">
+        <image>laptop.jpg</image>
+        <name>Samsung</name>
+        <condition >Refurbished</condition>
+        <price>$2399</price>
+        <RetailerZip>60416</RetailerZip>
+        <RetailerCity>LASVEGAS</RetailerCity>
+        <RetailerState>CA</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>Samsung</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Dish TV</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+    </Product>
+</laptop>

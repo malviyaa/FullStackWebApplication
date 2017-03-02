@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tablet>
+    <Product id="201" retailer="Microsft">
+        <image>tablet1.jpg</image>
+        <name>Samsung7D</name>
+        <condition>New</condition>
+        <price>$1399</price>
+        <RetailerZip>54616</RetailerZip>
+            <RetailerCity>New york</RetailerCity>
+                <RetailerState>NY</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Samsung</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>cable</accessory>
+        </accessories>
+     
+    </Product>
+    <Product id="202" retailer="Microsft">
+        <image>tablet2.jpg</image>
+        <name>Iball9080</name>
+        <condition >Refurbished</condition>
+        <price>$1399</price>
+        <RetailerZip>54616</RetailerZip>
+            <RetailerCity>New york</RetailerCity>
+                <RetailerState>NY</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Iball</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Headphone</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+        
+   
+        </Product>
+          <Product id="203" retailer="Microsft">
+        <image>tablet3.jpg</image>
+        <name>Microsoft Surface</name>
+        <condition >Refurbished</condition>
+      <price>$2899</price>
+      <RetailerZip>54616</RetailerZip>
+          <RetailerCity>New york</RetailerCity>
+              <RetailerState>NY</RetailerState>
+                  <ProductOnSale>Yes</ProductOnSale>
+                      <ManufacturerName>Microsft</ManufacturerName>
+                          <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Bag</accessory>
+            <accessory>DVD Player</accessory>
+        </accessories>
+            
+          
+        </Product>
+         <Product id="204" retailer="PeopleSoft">
+        <image>tablet2.jpg</image>
+        <name>HTCTab</name>
+        <condition >New</condition>
+        <price>$2899</price>
+        <RetailerZip>547616</RetailerZip>
+            <RetailerCity>San Fransisco</RetailerCity>
+                <RetailerState>OH</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>HTC</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>CD player</accessory>
+            <accessory>Stand</accessory>
+        </accessories>
+                  
+        </Product>
+        <Product id="205" retailer="PeopleSoft">
+        <image>tablet1.jpg</image>
+        <name>SamsaungTablet</name>
+        <condition >Refurbished</condition>
+        <price>$2399</price>
+        <RetailerZip>547616</RetailerZip>
+            <RetailerCity>San Fransisco</RetailerCity>
+                <RetailerState>OH</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Samsaung</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Dish TV</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+     
+        </Product>
+</tablet>

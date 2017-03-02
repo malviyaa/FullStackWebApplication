@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <Product id="301" retailer="HP">
+        <image>tv1.jpg</image>
+        <name>SonyLCD</name>
+        <condition>New</condition>
+        <price>$1399</price>
+        <RetailerZip>63216</RetailerZip>
+            <RetailerCity>SanJose</RetailerCity>
+                <RetailerState>CA</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Sony</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>cable</accessory>
+        </accessories>
+    </Product>
+                            
+    <Product id="302" retailer="BestDeal">
+        <image>tv2.jpg</image>
+        <name>Iball</name>
+        <condition>Refurbished</condition>
+        <price>$1299</price>
+        <RetailerZip>63616</RetailerZip>
+            <RetailerCity>SanJose</RetailerCity>
+                <RetailerState>CA</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Iball</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Headphone</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+     
+        </Product>
+                            
+          <Product id="303" retailer="BestDeal">
+        <image>tv4.jpg</image>
+        <name>Onida</name>
+        <condition>Refurbished</condition>
+        <price>$3399</price>
+        <RetailerZip>63616</RetailerZip>
+            <RetailerCity>SanJose</RetailerCity>
+                <RetailerState>CA</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Sony</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Bag</accessory>
+            <accessory>DVD Player</accessory>
+        </accessories>
+        </Product>
+                            
+         <Product id="304" retailer="BMW">
+        <image>tv3.jpg</image>
+        <name>BMW</name>
+        <condition>New</condition>
+        <price>$2899</price>
+        <RetailerZip>60416</RetailerZip>
+            <RetailerCity>LASVEGAS</RetailerCity>
+                <RetailerState>CA</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>BMW</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>CD player</accessory>
+            <accessory>Stand</accessory>
+        </accessories>
+        </Product>
+                            
+        <Product id="305" retailer="HP">
+        <image>tv1.jpg</image>
+        <name>SamsungBravia</name>
+        <condition>Refurbished</condition>
+        <price>$2399</price>
+        <RetailerZip>63216</RetailerZip>
+            <RetailerCity>SANTA CLARA</RetailerCity>
+                <RetailerState>CA</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Samsung</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Dish TV</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+        </Product>
+</tv>

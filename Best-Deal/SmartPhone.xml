@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SmartPhone>
+    <Product id="401" retailer="PhoneShop">
+        <image>mobile.jpg</image>
+        <name>iPhone 6</name>
+        <condition>New</condition>
+        <price>$799</price>
+        <RetailerZip>60616</RetailerZip>
+        <RetailerCity>Chicago</RetailerCity>
+        <RetailerState>IL</RetailerState>
+        <ProductOnSale>Yes</ProductOnSale>
+        <ManufacturerName>Apple</ManufacturerName>
+        <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>/Image/Iphone charger</accessory>
+            <accessory>Iphone cable</accessory>
+        </accessories>
+                 
+    </Product>
+    <Product id="402" retailer="PhoneShop">
+        <image>mobile1.jpg</image>
+        <name>Galaxy S5</name>
+        <condition >Refurbished</condition>
+        <price>$299</price>
+        <RetailerZip>60616</RetailerZip>
+            <RetailerCity>Chicago</RetailerCity>
+                <RetailerState>IL</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Samsung</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Headphone</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+              
+        </Product>
+          <Product id="403" retailer="PhoneShop">
+        <image>mobile2.jpg</image>
+        <name>HTC oneX</name>
+        <condition >Refurbished</condition>
+        <price>$899</price>
+        <RetailerZip>60616</RetailerZip>
+            <RetailerCity>Chicago</RetailerCity>
+                <RetailerState>IL</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>HTC</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Bag</accessory>
+            <accessory>Power cord</accessory>
+        </accessories>
+                
+        </Product>
+         <Product id="404" retailer="wiki">
+        <image>mobile3.jpg</image>
+        <name>Motorola</name>
+        <condition >New</condition>
+        <price>$2899</price>
+        <RetailerZip>60916</RetailerZip>
+            <RetailerCity>Boulder</RetailerCity>
+                <RetailerState>Colorado</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Motorola</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>CD player</accessory>
+            <accessory>Stand</accessory>
+        </accessories>
+                     
+        </Product>
+        <Product id="405" retailer="wiki">
+        <image>mobile.jpg</image>
+        <name>Nokia 7708</name>
+        <condition >Refurbished</condition>
+        <price>$299</price>
+        <RetailerZip>60916</RetailerZip>
+            <RetailerCity>Boulder</RetailerCity>
+                <RetailerState>Colorado</RetailerState>
+                    <ProductOnSale>Yes</ProductOnSale>
+                        <ManufacturerName>Nokia</ManufacturerName>
+                            <ManufacturerRebate>Yes</ManufacturerRebate>
+        <accessories>
+            <accessory>Bag</accessory>
+            <accessory>Wireless Adapter</accessory>
+        </accessories>
+                    
+        </Product>
+</SmartPhone>

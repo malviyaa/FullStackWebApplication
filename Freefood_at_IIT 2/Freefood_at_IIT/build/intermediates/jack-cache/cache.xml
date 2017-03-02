@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c0da9b37fa66d3c027a58edd07c1e32c115b51e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d185a035cd60dff64c7f8412900306170e2992b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-90cb2fa5355de41f263586d923c01dfe6d84aee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\glide-3.6.1\glide-3.6.1.jar"
+        revision="24.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.6.1-3fb7990f2ff1d9e752cbb385fb703c1cd863a471.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-68834d0e7817fdedb8e4b399cacd221e45e31497.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f3929e3790cda30e66636b5f69a0cf0b00994bf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-20b267f0668f151ee9acc95fa6812dd3e004df3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="29039de5dbc8a7d898f26f306458a751e1f223fa">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-89d5aa03d0f6cd7249e3edfc5187b3a24fcd5430.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3a6f0ffb057c0a642a3fa24641a6a8857c10e633.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-ed60c4ea17eacb17437ca6b9bb07c8a5b1cf46a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c111239ecc6fe7e7bf7b397b0057ceaa711fc187.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-94f00ee4f2aa8174061cf946a8b8a720bcd9b126.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.2.1-fcc5dc9d490a3363292791ef69942895d17bf9c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-db077ffc7ccd367b9ca8037befda8aa3390abb6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\AppData\Local\Android\Sdk\platforms\android-24\optional\org.apache.http.legacy.jar"
+        revision="24.0.3"
+        sha1="b633f2991f9d792d29d23312229f27850f519544">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-410223c3a8cdcb688b3327a6bc95931b2edebcb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-54bf02a96f7f1da7fb4db23f694d2593b94d54e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7a5d90eacc07316d36e18ebe5ec3d601128650c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\AppData\Local\Android\Sdk\platforms\android-24\android.jar"
+        revision="24.0.3"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-f790e71f80d484070a678d7c0b356886265ead75.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2d183aa7f344497171ba3c859db2bbfba699b65c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f4f8982fdf110b676727b7502bf6fdb41333bab6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b0215eb9a62ae83cd48ba003fd62ee12982202bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-16ba4145dc41389dc4f3b9b3abb47bab0a309a41.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        revision="24.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e9bea74286d955a8079cd6382d604c2d4d16a7ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4144a839e61389ad9cedd1a573bd219c7d843d04.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6c550c66921d3c4f5ec1114b39b68067748d7070.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-0ea2409502f274f0c6c068c81367e96c9854a656.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-43e09a435544b1bccabc3ce47139142d68fd6b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-268d6d915568c77109949ad635eecc3bbd44cc36.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-81df5b8c6063da36d6bd70e5d8eded74c7fde4e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\mysql-connector-java-5.1.40-bin\mysql-connector-java-5.1.40-bin.jar"
+        revision="24.0.3"
+        sha1="7c6a4b402a1f6106ffaf8a957004f30f57d9bdc7">
+        <dex dex="C:\Users\ViveK\Music\Freefood_at_IIT\Freefood_at_IIT\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\mysql-connector-java-5.1.40-bin-e1a1da1b10b9f2c7844b98c3a9ae44c3cd42b5cc.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VehicleCatalog>
+    <vehicle vin="1HGCM82633A004352" id="toyotacorolla">
+		<image>images/Toyota Corolla.jpg</image>
+        <type>Compact</type>
+        <make>Toyota</make>
+		<model>Corolla</model>
+        <locationId>LO1</locationId>
+        <price>31.00</price>
+		<mileage>32</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>1</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="2HGCM82683A004352" id="toyota4runner">
+		<image>images/Toyota 4Runner.jpg</image>
+        <type>SUV</type>
+        <make>Toyota</make>
+		<model>4Runner</model>
+        <locationId>LO1</locationId>
+        <price>78.00</price>
+		<mileage>22</mileage>
+		<passengers>5</passengers>
+        <smallLuggage>2</smallLuggage>
+		<largeLuggage>2</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="3HGCM82633A004344" id="nissanquest">
+		<image>images/Nissan Quest.jpg</image>
+        <type>Minivan</type>
+        <make>Nissan</make>
+		<model>Quest</model>
+        <locationId>LO2</locationId>
+        <price>68.00</price>
+		<mileage>20</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="4HKCM82637A004344" id="porscheboxter">
+		<image>images/Porsche Boxter.jpg</image>
+        <type>Sports</type>
+        <make>Porsche</make>
+		<model>Boxter</model>
+        <locationId>LO2</locationId>
+        <price>230.00</price>
+		<mileage>14</mileage>
+		<passengers>2</passengers>
+        <smallLuggage>1</smallLuggage>
+		<largeLuggage>0</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+	<vehicle vin="5CCCM82637A004344" id="chevroletsuburban">
+		<image>images/Chevrolet Suburban.jpg</image>
+        <type>Full-Size SUV</type>
+        <make>Chevrolet</make>
+		<model>Suburban</model>
+        <locationId>LO3</locationId>
+        <price>125.00</price>
+		<mileage>18</mileage>
+		<passengers>7</passengers>
+        <smallLuggage>3</smallLuggage>
+		<largeLuggage>3</largeLuggage>
+        <transmission>Automatic</transmission>
+    </vehicle>
+	
+</VehicleCatalog>

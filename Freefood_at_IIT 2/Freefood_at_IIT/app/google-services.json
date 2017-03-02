@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852955146238",
+    "firebase_url": "https://android-app-a9658.firebaseio.com",
+    "project_id": "android-app-a9658",
+    "storage_bucket": "android-app-a9658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852955146238:android:898c0c24446781e7",
+        "android_client_info": {
+          "package_name": "com.cs442.amalviy1.freefood_at_iit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852955146238-8ktj0496863d2j4s4rb2l6f61dhbm3aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9n6mInk4uRKDVjHslWKZXE9eJdJEzXdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
